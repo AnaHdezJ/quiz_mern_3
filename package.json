@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec babel-node src/index.js",
-    "test": "echo \"No test specified\" && exit 0",
-    "build": " build --output public"
+    "test": "echo \"No test specified\" && exit 0"
   },
   "keywords": [],
   "author": "",
